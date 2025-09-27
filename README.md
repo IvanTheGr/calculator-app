@@ -20,7 +20,7 @@ JavaScript: Implemented the calculator's logic, event handling, and expression e
 - Press the '=' button to evaluate the expression.
 - Click the 'clear' button to reset the display.
 - Future Enhancements
-- This simple calculator can be expanded with additional features, such as: " + ", " - " , " / " , " * " , " ^ " and " √ "
+- This simple calculator can be expanded with additional features, such as: " + ", " - " , " / " , and " * " 
 
 
 
